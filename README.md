@@ -25,4 +25,5 @@ Optimizer = Rosenblatt
 
 Minimal demo to load a level 0 trained neural network.
 This means a minimum of information is needed to load a neural network.
+
 Level 0 = neural network + trained weights

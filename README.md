@@ -14,14 +14,10 @@
 
 
 # Trained with gg|one
-Neural network base on the perceptron concept.
-
+Neural network based on the perceptron concept.
 Trained with goodgame|one 
-
 Hidden activation = ReLU
-
 Output activation = softmax
-
 Optimizer = Rosenblatt
 
 Minimal demo to load a level 0 trained neural network.

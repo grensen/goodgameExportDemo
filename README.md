@@ -9,7 +9,7 @@
 
 2. Load the MNIST training and test data and extract them to C:\goodgameProDemo\ folder.
 
-(http://yann.lecun.com/exdb/mnist/)
+  (http://yann.lecun.com/exdb/mnist/)
 
 3. Open a Visual Studio console app copy the code and run it.
 

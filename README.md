@@ -15,10 +15,10 @@
 
 # Trained with gg|one
 Neural network based on the perceptron concept.
-Trained with goodgame|one 
-Hidden activation = ReLU
-Output activation = softmax
-Optimizer = Rosenblatt
+Trained with goodgame|one.
+Hidden activation = ReLU.
+Output activation = softmax.
+Optimizer = Rosenblatt.
 
 Minimal demo to load a level 0 trained neural network.
 This means a minimum of information is needed to load a neural network.

@@ -18,9 +18,9 @@ Neural network based on the ["perceptron concept"](https://github.com/grensen/pe
 
 Hidden activation = ReLU
 
-Output activation = maxout instead of softmax
+Output activation = maxout (instead of softmax for demo)
 
-Optimizer = Rosenblatt
+Optimizer = Rosenblatt was used
 
 Minimal demo to load a level 0 trained neural network.
 This means a minimum of information is needed to load a neural network.

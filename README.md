@@ -1,4 +1,4 @@
-# goodgameExportDemo
+# goodgame production demo
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/grensen/goodgameExportDemo/master/figure1.png">

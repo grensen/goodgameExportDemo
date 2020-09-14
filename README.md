@@ -13,7 +13,8 @@
 3. Open a Visual Studio console app copy the code and run it.
 
 
-# Trained with gg|one
+### Trained with gg|one
+
 Neural network based on the perceptron concept.
 Trained with goodgame|one.
 Hidden activation = ReLU.

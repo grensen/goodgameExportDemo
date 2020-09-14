@@ -14,7 +14,7 @@
 
 ### Trained with gg|one
 
-Neural network based on the perceptron concept and trained with goodgame|one
+Neural network based on the ["perceptron concept"](https://github.com/grensen/perceptron_concept) and trained with goodgame|one
 
 Hidden activation = ReLU
 

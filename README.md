@@ -1,6 +1,8 @@
 # goodgameExportDemo
 
-<img center src="https://raw.githubusercontent.com/grensen/goodgameExportDemo/master/figure1.png">
+<p align="center">
+<img src="https://raw.githubusercontent.com/grensen/goodgameExportDemo/master/figure1.png">
+</p>
 
 ## How to run 
 1. Load the directory goodgameProDemo\ and copy it to your C:\ drive.
@@ -13,9 +15,13 @@
 
 # Trained with gg|one
 Neural network base on the perceptron concept.
+
 Trained with goodgame|one 
+
 Hidden activation = ReLU
+
 Output activation = softmax
+
 Optimizer = Rosenblatt
 
 Minimal demo to load a level 0 trained neural network.

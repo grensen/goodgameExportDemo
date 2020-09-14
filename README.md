@@ -1,6 +1,6 @@
 # goodgameExportDemo
 
-<img src="ttps://raw.githubusercontent.com/grensen/goodgameExportDemo/master/figure1.png">
+<img src="https://raw.githubusercontent.com/grensen/goodgameExportDemo/master/figure1.png">
 
 ## How to run 
 1. Load the directory goodgameProDemo\ and copy it to your C:\ folder

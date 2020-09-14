@@ -18,7 +18,7 @@ Neural network based on the perceptron concept and trained with goodgame|one
 
 Hidden activation = ReLU
 
-Output activation = softmax
+Output activation = maxout instead of softmax
 
 Optimizer = Rosenblatt
 
